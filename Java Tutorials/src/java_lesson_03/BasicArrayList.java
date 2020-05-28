@@ -40,7 +40,7 @@ public class BasicArrayList {
 		}
 		
 		//Scanner close
-		//input.close();
+		input.close();
 		
 		
 		return array;
